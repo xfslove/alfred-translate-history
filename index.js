@@ -7,10 +7,11 @@ var histories = JSON.parse(history.get('history') || '[]').reverse();
 var items = [];
 histories.forEach(input => {
     items.push({
-        title: input.from.join(' '),
-        subtitle: `${input.to.join(' ')} Date: ${new Date(input.time).toDateString()}`,
+        title: input.from,
+        subtitle: `${input.to} Date: ${new Date(input.time).toDateString()}`,
         text: {
-            copy: input.from.join(' ')
+            copy: input.from,
+            largetype: `${input.from}\n${input.to}`
         }
     })
 });
