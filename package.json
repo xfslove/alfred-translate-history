@@ -1,6 +1,6 @@
 {
   "name": "alfred-translate-history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alfred 3 workflow alfred-google-translate translate history",
   "license": "MIT",
   "repository": "xfslove/alfred-translate-history",
@@ -10,7 +10,7 @@
     "url": "https://github.com/xfslove/alfred-translate-history"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8"
   },
   "scripts": {
     "test": "xo && ava",
@@ -31,7 +31,7 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.6.0",
+    "alfy": "^0.9.0",
     "configstore": "^2.0.0"
   },
   "devDependencies": {
