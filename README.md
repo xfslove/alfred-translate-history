@@ -8,6 +8,7 @@
 
 - install with `npm install -g alfred-translate-history`
 - or [download](https://github.com/xfslove/alfred-translate-history/releases/tag/v1.0.1) workflow
+- install the main workflow [alfred-google-translate](https://github.com/xfslove/alfred-google-translate)
 
 ## [Changelog](https://github.com/xfslove/alfred-translate-history/releases)
 
