@@ -4,11 +4,10 @@
 
 ## Install
 
-*Requires [Node.js](https://nodejs.org) 8+ and the Alfred 3 or 4 [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Requires [Node.js](https://nodejs.org) 8+ and the Alfred 3 or 4 [Powerpack](https://www.alfredapp.com/powerpack/), and the original [alfred-google-translate](https://github.com/xfslove/alfred-google-translate) workflow..*
 
-- install with `npm install -g alfred-translate-history`
+- install with `npm install -g alfred-translate-history` and `npm install -g alfred-google-translate`
 - or [download](https://github.com/xfslove/alfred-translate-history/releases/tag/v1.0.1) workflow
-- install the main workflow [alfred-google-translate](https://github.com/xfslove/alfred-google-translate)
 
 ## [Changelog](https://github.com/xfslove/alfred-translate-history/releases)
 
